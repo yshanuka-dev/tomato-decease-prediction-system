@@ -7,7 +7,7 @@
 # -- Configuration -------------------------------------------------------------
 PYTHON        := python
 PIP           := pip
-VENV_DIR      := venv
+VENV_DIR      := .venv
 
 API_DIR       := api
 FRONTEND_DIR  := frontend
